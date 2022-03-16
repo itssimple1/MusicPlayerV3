@@ -63,7 +63,7 @@ HELP_TEXT = """
 \u2022 `/setvar` - set/change heroku configs
 
 © **Powered By** : 
-**@its_simple1 | @neetjeestars** 👑
+**@its_simple1** 👑
 """
 
 
@@ -197,8 +197,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/neetjeestars"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/neetxhub"),
+                InlineKeyboardButton("LIVE SONGS", url="https://t.me/Musix_hub"),
+                InlineKeyboardButton("SUPPORT", url="https://t.me/neetjeestars"),
             ],
             [
                 InlineKeyboardButton("MORE BOTS", url="https://t.me/its_simple1"),
