@@ -201,7 +201,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("SUPPORT", url="https://t.me/neetjeestars"),
             ],
             [
-                InlineKeyboardButton("MORE BOTS", url="https://t.me/its_simple1"),
+                InlineKeyboardButton("OWNER", url="https://t.me/its_simple1"),
                 InlineKeyboardButton("SOURCE CODE", url="https://github.com/sandy1709/catuserbot"),
             ],
             [
@@ -224,11 +224,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/neetjeestars"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/neetxhub"),
+                InlineKeyboardButton("LIVE SONGS", url="https://t.me/mudix_hub"),
+                InlineKeyboardButton("SUPPORT", url="https://t.me/neetjeestars"),
             ],
             [
-                InlineKeyboardButton("MORE BOTS", url="https://t.me/its_simple1"),
+                InlineKeyboardButton("OWNER", url="https://t.me/its_simple1"),
                 InlineKeyboardButton("SOURCE CODE", url="https://github.com/sandy1709/catuserbot"),
             ],
             [
@@ -262,11 +262,11 @@ async def start(client, message):
                 InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/neetjeestars"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/neetxhub"),
+                InlineKeyboardButton("LIVE SONGS", url="https://t.me/MUSIX_HUB"),
+                InlineKeyboardButton("SUPPORT", url="https://t.me/NEETJEESTARS"),
             ],
             [
-                InlineKeyboardButton("MORE BOTS", url="https://t.me/its_simple1"),
+                InlineKeyboardButton("OWNER", url="https://t.me/its_simple1"),
                 InlineKeyboardButton("SOURCE CODE", url="https://github.com/Sandy1709/catuserbot"),
             ],
             [
@@ -286,11 +286,11 @@ async def help(client, message):
                 InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/neetjeestars"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/neetxhub"),
+                InlineKeyboardButton("LIVE SONGS", url="https://t.me/MUSIX_HUB"),
+                InlineKeyboardButton("SUPPORT", url="https://t.me/NEETJEESTARS"),
             ],
             [
-                InlineKeyboardButton("MORE BOTS", url="https://t.me/its_simple1"),
+                InlineKeyboardButton("OWNER", url="https://t.me/its_simple1"),
                 InlineKeyboardButton("SOURCE CODE", url="https://github.com/Sandy1709/catuserbot"),
             ],
             [
