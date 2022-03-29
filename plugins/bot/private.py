@@ -46,7 +46,7 @@ HELP_TEXT = """
 
 💡 --**Admins Commands**--:
 
-\u2022 `/radio` - start radio stream
+\u2022 `/vplay` - Ask --**Dude**-- to update this
 \u2022 `/stopradio` - stop radio stream
 \u2022 `/skip` - skip current music
 \u2022 `/join` - join the voice chat
@@ -197,7 +197,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("LIVE SONGS", url="https://t.me/Musix_hub"),
+                InlineKeyboardButton("LIVE SONGS", url="https://t.me/MUSIX_HUB"),
                 InlineKeyboardButton("SUPPORT", url="https://t.me/neetjeestars"),
             ],
             [
@@ -224,7 +224,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("LIVE SONGS", url="https://t.me/mudix_hub"),
+                InlineKeyboardButton("LIVE SONGS", url="https://t.me/musix_hub"),
                 InlineKeyboardButton("SUPPORT", url="https://t.me/neetjeestars"),
             ],
             [
