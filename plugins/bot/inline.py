@@ -32,7 +32,7 @@ buttons = [
             ],
             [
                 InlineKeyboardButton("CHANNEL", url="https://t.me/neetjeestars"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/neetxhub"),
+                InlineKeyboardButton("SUPPORT", url="https://t.me/m_4_musix"),
             ],
             [
                 InlineKeyboardButton("🤖 MAKE YOUR OWN BOT 🤖", url="https://heroku.com/deploy?template=https://github.com/sandy1709/catuserbot"),
@@ -49,7 +49,7 @@ async def search(client, query):
                 title="Deploy Your Own Radio Player",
                 thumb_url="https://telegra.ph/file/f748ccd95ba896a02fa12.jpg",
                 photo_url="https://telegra.ph/file/f748ccd95ba896a02fa12.jpg",
-                caption=f"{REPLY_MESSAGE}\n\n<b>© Powered By : \n@its_simple1 | @neetxhub 👑</b>",
+                caption=f"{REPLY_MESSAGE}\n\n<b>© Powered By : \n@its_simple1 🙌</b>",
                 reply_markup=InlineKeyboardMarkup(buttons)
                 )
             )
