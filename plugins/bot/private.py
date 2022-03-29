@@ -46,8 +46,8 @@ HELP_TEXT = """
 
 💡 --**Admins Commands**--:
 
-\u2022 `/vplay` - Ask --**Dude**-- to update this
-\u2022 `/stopradio` - stop radio stream
+\u2022 `/vplay` - Updated Soon... 
+\u2022 `/vcplay` - Updated Soon... 
 \u2022 `/skip` - skip current music
 \u2022 `/join` - join the voice chat
 \u2022 `/leave` - leave the voice chat
