@@ -567,7 +567,7 @@ async def not_chat(_, m: Message):
     buttons = [
             [
                 InlineKeyboardButton("CHANNEL", url="https://t.me/neetjeestars"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/neetxhub"),
+                InlineKeyboardButton("SUPPORT", url="https://t.me/m_4_musix"),
             ],
             [
                 InlineKeyboardButton("🤖 MAKE YOUR OWN BOT 🤖", url="https://heroku.com/deploy?template=https://github.com/sandy1709/catuserbot"),
