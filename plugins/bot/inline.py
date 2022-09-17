@@ -35,7 +35,7 @@ buttons = [
                 InlineKeyboardButton("SUPPORT", url="https://t.me/m_4_musix"),
             ],
             [
-                InlineKeyboardButton("🤖 MAKE YOUR OWN BOT 🤖", url="https://heroku.com/deploy?template=https://github.com/sandy1709/catuserbot"),
+                InlineKeyboardButton("🤖 MAKE YOUR OWN BOT 🤖", url="https://heroku.com/deploy?template=https://realsaberxd.com"),
             ]
          ]
 
