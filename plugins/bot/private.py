@@ -202,7 +202,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],
             [
                 InlineKeyboardButton("OWNER", url="https://t.me/its_simple1"),
-                InlineKeyboardButton("SOURCE CODE", url="https://github.com/sandy1709/catuserbot"),
+                InlineKeyboardButton("SOURCE CODE", url="https://t.me/realsaberxd"),
             ],
             [
                 InlineKeyboardButton("BACK HOME", callback_data="home"),
@@ -229,7 +229,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],
             [
                 InlineKeyboardButton("OWNER", url="https://t.me/its_simple1"),
-                InlineKeyboardButton("SOURCE CODE", url="https://github.com/sandy1709/catuserbot"),
+                InlineKeyboardButton("SOURCE CODE", url="https://t.me/realsaberxd"),
             ],
             [
                 InlineKeyboardButton("❔ HOW TO USE ❔", callback_data="help"),
